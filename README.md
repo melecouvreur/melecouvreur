@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Mele
 
-<!--
-**melecouvreur/melecouvreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I herd cats for a living! Not really, but I do love a good challenge. 
 
-Here are some ideas to get you started:
+I'm a full-stack developer with over a decade of project management and client engagement experience across different sectors and geographies. More of jack-of-all-trades kinda gall.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A natural problem-solver, I'm most happy when adding value, gaining new knowledge and insights, and helping people get the best out of themselves. 
+
+- 🔭 I’m currently working on an app that helps climbers find a belay partner (i.e. tinder for climber- ish)
+- 🌱 I’m currently everything.
+- 👯 I’m looking to collaborate on climbing or diversity related projects. 
+- 📫 How to reach me: melecouvreur@gmail.com
+- 😄 Pronouns: she/her
+
