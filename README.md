@@ -12,6 +12,6 @@
 - 📫 How to reach me: melecouvreur@gmail.com
 - 😄 Pronouns: she/her
 
-Language and tools: Javascript, Git, Node.js, MySQL, React, Vue, Bootstrap, Postman
+Language and tools: Javascript, Git, Node.js, MySQL, React, Vue, Bootstrap
 
 
