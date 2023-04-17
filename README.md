@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mele ##
 
-**I herd 🐈 for a living! Not really, but I do love a good challenge**
+**I herd 🐈's for a living! Not really, but I do love a good challenge**
 
 **I'm a full-stack developer with over a decade of global project management and client engagement experience across international development and social impact sectors. More of jack-of-all-trades kinda gall**
 
