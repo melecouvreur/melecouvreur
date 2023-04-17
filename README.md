@@ -7,7 +7,7 @@
 **A natural problem-solver, I'm most happy when adding value, gaining new knowledge and insights, and helping people get the best out of themselves**
 
 - 🔭 I’m currently working on an app that helps climbers find belay partners. (i.e. tinder for climber- ish)
-- 🌱 I’m currently learning **everything**. 
+- 🌱 I’m currently looking for a role where I can add value while growing my skillset.  
 - 👯 I’m looking to collaborate on climbing or diversity in tech related projects. 
 - 📫 How to reach me: melecouvreur@gmail.com
 
